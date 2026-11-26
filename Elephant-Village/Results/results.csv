@@ -1,0 +1,151 @@
+run,time,image,label,confidence
+48,2026-11-23T19:21:28,Real Test.png,Elephants,0.5059
+41,2026-11-23T18:42:01,Real Test Invert.png,Elephants,0.7117
+41,2026-11-25T20:02:20,Real Test Rotate.png,Elephants,0.5596
+38,2026-11-23T18:39:54,Real Test Invert.png,Elephants,0.6095
+24,2026-11-23T18:26:03,Real Test Invert.png,Elephants,0.5087
+23,2026-11-23T18:25:26,Real Test Invert.png,Elephants,0.5334
+20,2026-11-23T18:23:24,Real Test Invert.png,Elephants,0.5878
+50,2026-11-23T18:47:44,Real Test Invert.png,Village,0.7752
+50,2026-11-23T19:22:48,Real Test.png,Village,0.7948
+50,2026-11-25T20:09:15,Real Test Rotate.png,Village,0.9665
+49,2026-11-23T18:47:07,Real Test Invert.png,Village,0.7122
+49,2026-11-23T19:22:11,Real Test.png,Village,0.7956
+49,2026-11-25T20:08:24,Real Test Rotate.png,Village,0.9627
+48,2026-11-23T18:46:28,Real Test Invert.png,Village,0.7684
+48,2026-11-25T20:07:45,Real Test Rotate.png,Village,0.8715
+47,2026-11-23T18:45:51,Real Test Invert.png,Village,0.8973
+47,2026-11-23T19:20:52,Real Test.png,Village,0.5659
+47,2026-11-25T20:07:00,Real Test Rotate.png,Village,0.8669
+46,2026-11-23T18:45:16,Real Test Invert.png,Village,0.828
+46,2026-11-23T19:20:09,Real Test.png,Village,0.8634
+46,2026-11-25T20:06:18,Real Test Rotate.png,Village,0.6913
+45,2026-11-23T18:44:21,Real Test Invert.png,Village,0.5952
+45,2026-11-23T19:19:30,Real Test.png,Village,0.8953
+45,2026-11-25T20:05:40,Real Test Rotate.png,Village,0.8534
+44,2026-11-23T18:43:45,Real Test Invert.png,Village,0.874
+44,2026-11-23T19:18:53,Real Test.png,Village,0.8708
+44,2026-11-25T20:04:50,Real Test Rotate.png,Village,0.8783
+43,2026-11-23T18:43:10,Real Test Invert.png,Village,0.7161
+43,2026-11-23T19:18:16,Real Test.png,Village,0.876
+43,2026-11-25T20:04:01,Real Test Rotate.png,Village,0.6877
+42,2026-11-23T18:42:36,Real Test Invert.png,Village,0.7517
+42,2026-11-23T19:17:06,Real Test.png,Village,0.8231
+42,2026-11-25T20:03:12,Real Test Rotate.png,Village,0.7742
+41,2026-11-23T19:16:30,Real Test.png,Village,0.8964
+40,2026-11-23T18:41:26,Real Test Invert.png,Village,0.941
+40,2026-11-23T19:15:51,Real Test.png,Village,0.9695
+40,2026-11-25T20:01:42,Real Test Rotate.png,Village,0.9244
+39,2026-11-23T18:40:40,Real Test Invert.png,Village,0.849
+39,2026-11-23T19:14:58,Real Test.png,Village,0.7752
+39,2026-11-25T20:01:05,Real Test Rotate.png,Village,0.8852
+38,2026-11-23T19:14:24,Real Test.png,Village,0.563
+38,2026-11-25T20:00:26,Real Test Rotate.png,Village,0.7963
+37,2026-11-23T18:38:51,Real Test Invert.png,Village,0.9035
+37,2026-11-23T19:13:43,Real Test.png,Village,0.7941
+37,2026-11-25T19:59:44,Real Test Rotate.png,Village,0.8786
+36,2026-11-23T18:38:06,Real Test Invert.png,Village,0.587
+36,2026-11-23T19:13:04,Real Test.png,Village,0.8658
+36,2026-11-25T19:59:00,Real Test Rotate.png,Village,0.8955
+35,2026-11-23T18:34:54,Real Test Invert.png,Village,0.7055
+35,2026-11-23T19:12:26,Real Test.png,Village,0.7685
+35,2026-11-25T19:58:15,Real Test Rotate.png,Village,0.9027
+34,2026-11-23T18:34:20,Real Test Invert.png,Village,0.9206
+34,2026-11-23T19:11:52,Real Test.png,Village,0.895
+34,2026-11-25T19:57:34,Real Test Rotate.png,Village,0.8477
+33,2026-11-23T18:33:46,Real Test Invert.png,Village,0.9681
+33,2026-11-23T19:11:17,Real Test.png,Village,0.9753
+33,2026-11-25T19:56:48,Real Test Rotate.png,Village,0.8734
+32,2026-11-23T18:33:08,Real Test Invert.png,Village,0.7027
+32,2026-11-23T19:10:27,Real Test.png,Village,0.8517
+32,2026-11-25T19:56:12,Real Test Rotate.png,Village,0.7783
+31,2026-11-23T18:32:30,Real Test Invert.png,Village,0.889
+31,2026-11-23T19:09:54,Real Test.png,Village,0.8308
+31,2026-11-25T19:55:31,Real Test Rotate.png,Village,0.8956
+30,2026-11-23T18:31:41,Real Test Invert.png,Village,0.6495
+30,2026-11-23T19:09:18,Real Test.png,Village,0.8077
+30,2026-11-25T19:54:21,Real Test Rotate.png,Village,0.859
+29,2026-11-23T18:30:45,Real Test Invert.png,Village,0.5766
+29,2026-11-23T19:08:43,Real Test.png,Village,0.8223
+29,2026-11-25T19:53:36,Real Test Rotate.png,Village,0.8764
+28,2026-11-23T18:29:42,Real Test Invert.png,Village,0.8073
+28,2026-11-23T19:08:08,Real Test.png,Village,0.8961
+28,2026-11-25T19:52:44,Real Test Rotate.png,Village,0.8728
+27,2026-11-23T18:28:59,Real Test Invert.png,Village,0.7098
+27,2026-11-23T19:07:32,Real Test.png,Village,0.5422
+27,2026-11-25T19:51:57,Real Test Rotate.png,Village,0.7735
+26,2026-11-23T18:28:18,Real Test Invert.png,Village,0.5985
+26,2026-11-23T19:06:55,Real Test.png,Village,0.7195
+26,2026-11-25T19:51:14,Real Test Rotate.png,Village,0.597
+25,2026-11-23T18:27:29,Real Test Invert.png,Village,0.9272
+25,2026-11-23T19:06:18,Real Test.png,Village,0.7345
+25,2026-11-25T19:50:34,Real Test Rotate.png,Village,0.8258
+24,2026-11-23T19:05:37,Real Test.png,Village,0.729
+24,2026-11-25T19:49:57,Real Test Rotate.png,Village,0.9275
+23,2026-11-23T19:05:00,Real Test.png,Village,0.9287
+23,2026-11-25T19:49:16,Real Test Rotate.png,Village,0.5617
+22,2026-11-23T18:24:42,Real Test Invert.png,Village,0.7772
+22,2026-11-23T19:04:21,Real Test.png,Village,0.9162
+22,2026-11-25T19:48:34,Real Test Rotate.png,Village,0.7585
+21,2026-11-23T18:24:03,Real Test Invert.png,Village,0.8273
+21,2026-11-23T19:03:42,Real Test.png,Village,0.8253
+21,2026-11-25T19:47:56,Real Test Rotate.png,Village,0.9344
+20,2026-11-23T19:03:08,Real Test.png,Village,0.7373
+20,2026-11-25T19:47:21,Real Test Rotate.png,Village,0.6798
+19,2026-11-23T18:22:49,Real Test Invert.png,Village,0.5661
+19,2026-11-23T19:02:10,Real Test.png,Village,0.8223
+19,2026-11-25T19:46:41,Real Test Rotate.png,Village,0.8141
+18,2026-11-23T18:22:02,Real Test Invert.png,Village,0.7458
+18,2026-11-23T19:01:14,Real Test.png,Village,0.9382
+18,2026-11-25T19:45:58,Real Test Rotate.png,Village,0.9185
+17,2026-11-23T18:21:25,Real Test Invert.png,Village,0.8968
+17,2026-11-23T19:00:35,Real Test.png,Village,0.8326
+17,2026-11-25T19:45:20,Real Test Rotate.png,Village,0.8103
+16,2026-11-23T18:20:46,Real Test Invert.png,Village,0.7418
+16,2026-11-23T18:59:50,Real Test.png,Village,0.832
+16,2026-11-25T19:44:38,Real Test Rotate.png,Village,0.8843
+15,2026-11-23T18:20:04,Real Test Invert.png,Village,0.824
+15,2026-11-23T18:59:12,Real Test.png,Village,0.7992
+15,2026-11-25T19:43:56,Real Test Rotate.png,Village,0.9026
+14,2026-11-23T18:19:26,Real Test Invert.png,Village,0.7641
+14,2026-11-23T18:58:31,Real Test.png,Village,0.8804
+14,2026-11-25T19:43:10,Real Test Rotate.png,Village,0.6614
+13,2026-11-23T18:18:49,Real Test Invert.png,Village,0.7625
+13,2026-11-23T18:57:51,Real Test.png,Village,0.9694
+13,2026-11-25T19:42:31,Real Test Rotate.png,Village,0.8965
+12,2026-11-23T18:18:13,Real Test Invert.png,Village,0.9315
+12,2026-11-23T18:57:17,Real Test.png,Village,0.904
+12,2026-11-25T19:41:24,Real Test Rotate.png,Village,0.781
+11,2026-11-23T18:17:34,Real Test Invert.png,Village,0.6926
+11,2026-11-23T18:56:31,Real Test.png,Village,0.779
+11,2026-11-25T19:40:27,Real Test Rotate.png,Village,0.9322
+10,2026-11-23T18:16:55,Real Test Invert.png,Village,0.7676
+10,2026-11-23T18:55:49,Real Test.png,Village,0.645
+10,2026-11-25T19:39:47,Real Test Rotate.png,Village,0.6772
+9,2026-11-23T18:16:15,Real Test Invert.png,Village,0.5823
+9,2026-11-23T18:55:09,Real Test.png,Village,0.7179
+9,2026-11-25T19:39:06,Real Test Rotate.png,Village,0.7937
+8,2026-11-23T18:15:32,Real Test Invert.png,Village,0.7235
+8,2026-11-23T18:54:31,Real Test.png,Village,0.9045
+8,2026-11-25T19:38:28,Real Test Rotate.png,Village,0.9401
+7,2026-11-23T18:14:42,Real Test Invert.png,Village,0.7373
+7,2026-11-23T18:53:55,Real Test.png,Village,0.846
+7,2026-11-25T19:37:42,Real Test Rotate.png,Village,0.8937
+6,2026-11-23T18:14:06,Real Test Invert.png,Village,0.7923
+6,2026-11-23T18:53:12,Real Test.png,Village,0.8856
+6,2026-11-25T19:36:53,Real Test Rotate.png,Village,0.7122
+5,2026-11-23T18:13:28,Real Test Invert.png,Village,0.5493
+5,2026-11-23T18:52:33,Real Test.png,Village,0.6691
+5,2026-11-25T19:36:16,Real Test Rotate.png,Village,0.8479
+4,2026-11-23T18:12:50,Real Test Invert.png,Village,0.8223
+4,2026-11-23T18:51:59,Real Test.png,Village,0.6376
+4,2026-11-25T19:35:37,Real Test Rotate.png,Village,0.6639
+3,2026-11-23T18:11:30,Real Test Invert.png,Village,0.7175
+3,2026-11-23T18:51:03,Real Test.png,Village,0.8547
+3,2026-11-25T19:34:48,Real Test Rotate.png,Village,0.7675
+2,2026-11-23T18:10:09,Real Test Invert.png,Village,0.738
+2,2026-11-23T18:50:26,Real Test.png,Village,0.7944
+2,2026-11-25T19:34:10,Real Test Rotate.png,Village,0.916
+1,2026-11-23T18:08:40,Real Test Invert.png,Village,0.7265
+1,2026-11-23T18:49:23,Real Test.png,Village,0.7401
+1,2026-11-25T19:33:21,Real Test Rotate.png,Village,0.8452
