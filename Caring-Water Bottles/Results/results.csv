@@ -1,0 +1,61 @@
+run,time,image,label,confidence
+1,2026-11-27T10:26:21,Real Test.png,Water Bottles,0.6947
+2,2026-11-27T10:27:07,Real Test.png,Elephant,0.5389
+3,2026-11-27T10:27:47,Real Test.png,Elephant,0.58
+4,2026-11-27T10:28:32,Real Test.png,Elephant,0.5139
+5,2026-11-27T10:29:27,Real Test.png,Water Bottles,0.6134
+6,2026-11-27T10:30:21,Real Test.png,Elephant,0.632
+7,2026-11-27T10:31:15,Real Test.png,Water Bottles,0.7383
+8,2026-11-27T10:31:59,Real Test.png,Water Bottles,0.5018
+9,2026-11-27T10:32:42,Real Test.png,Water Bottles,0.7953
+10,2026-11-27T10:33:31,Real Test.png,Water Bottles,0.663
+11,2026-11-27T10:34:18,Real Test.png,Elephant,0.5089
+12,2026-11-27T10:35:13,Real Test.png,Water Bottles,0.7528
+13,2026-11-27T10:35:54,Real Test.png,Elephant,0.5693
+14,2026-11-27T10:36:51,Real Test.png,Water Bottles,0.5713
+15,2026-11-27T10:37:34,Real Test.png,Elephant,0.5095
+16,2026-11-27T10:38:37,Real Test.png,Water Bottles,0.9373
+17,2026-11-27T10:39:18,Real Test.png,Water Bottles,0.8717
+18,2026-11-27T10:39:57,Real Test.png,Elephant,0.5971
+19,2026-11-27T10:40:45,Real Test.png,Water Bottles,0.8306
+20,2026-11-27T10:41:30,Real Test.png,Water Bottles,0.6442
+1,2026-11-27T10:43:59,Real Test Invert.png,Water Bottles,0.8627
+2,2026-11-27T10:44:46,Real Test Invert.png,Elephant,0.6039
+3,2026-11-27T10:45:59,Real Test Invert.png,Water Bottles,0.5311
+4,2026-11-27T10:46:46,Real Test Invert.png,Water Bottles,0.7252
+5,2026-11-27T10:47:26,Real Test Invert.png,Water Bottles,0.9281
+6,2026-11-27T10:48:05,Real Test Invert.png,Elephant,0.6007
+7,2026-11-27T10:48:55,Real Test Invert.png,Elephant,0.5599
+8,2026-11-27T10:49:47,Real Test Invert.png,Elephant,0.5555
+9,2026-11-27T10:50:31,Real Test Invert.png,Water Bottles,0.6965
+10,2026-11-27T10:51:13,Real Test Invert.png,Elephant,0.8325
+11,2026-11-27T10:52:02,Real Test Invert.png,Water Bottles,0.6838
+12,2026-11-27T10:52:44,Real Test Invert.png,Water Bottles,0.5144
+13,2026-11-27T10:53:27,Real Test Invert.png,Elephant,0.9387
+14,2026-11-27T10:54:26,Real Test Invert.png,Elephant,0.94
+15,2026-11-27T10:55:16,Real Test Invert.png,Elephant,0.8805
+16,2026-11-27T10:56:03,Real Test Invert.png,Water Bottles,0.6068
+17,2026-11-27T10:56:55,Real Test Invert.png,Water Bottles,0.5974
+18,2026-11-27T10:57:37,Real Test Invert.png,Water Bottles,0.7072
+19,2026-11-27T10:58:15,Real Test Invert.png,Water Bottles,0.6907
+20,2026-11-27T10:58:58,Real Test Invert.png,Elephant,0.6071
+1,2026-11-27T11:00:44,Real Test Rotate.png,Water Bottles,0.6874
+2,2026-11-27T11:01:28,Real Test Rotate.png,Water Bottles,0.6826
+3,2026-11-27T11:02:15,Real Test Rotate.png,Water Bottles,0.9207
+4,2026-11-27T11:02:55,Real Test Rotate.png,Water Bottles,0.6964
+5,2026-11-27T11:03:42,Real Test Rotate.png,Elephant,0.5731
+6,2026-11-27T11:04:29,Real Test Rotate.png,Water Bottles,0.7875
+7,2026-11-27T11:05:20,Real Test Rotate.png,Water Bottles,0.8684
+8,2026-11-27T11:06:00,Real Test Rotate.png,Elephant,0.5278
+9,2026-11-27T11:06:59,Real Test Rotate.png,Water Bottles,0.5674
+10,2026-11-27T11:07:41,Real Test Rotate.png,Water Bottles,0.9353
+11,2026-11-27T11:08:24,Real Test Rotate.png,Water Bottles,0.9514
+12,2026-11-27T11:09:13,Real Test Rotate.png,Water Bottles,0.9063
+13,2026-11-27T11:09:55,Real Test Rotate.png,Water Bottles,0.7524
+14,2026-11-27T11:10:35,Real Test Rotate.png,Water Bottles,0.8331
+15,2026-11-27T11:11:17,Real Test Rotate.png,Water Bottles,0.8136
+16,2026-11-27T11:12:21,Real Test Rotate.png,Water Bottles,0.6183
+17,2026-11-27T11:13:09,Real Test Rotate.png,Water Bottles,0.7076
+18,2026-11-27T11:13:48,Real Test Rotate.png,Water Bottles,0.7335
+19,2026-11-27T11:14:48,Real Test Rotate.png,Water Bottles,0.5294
+20,2026-11-27T11:15:48,Real Test Rotate.png,Water Bottles,0.7356
